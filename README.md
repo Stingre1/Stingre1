@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stingre1
+- 👋 Hi, I’m Gavin Furtado (@Stingre1)
 
 
 <!---
